@@ -1,0 +1,15 @@
+.footerContainer {
+  display: flex;
+  width: 600px;
+  justify-content: space-around;
+  margin-left: 25vw;
+  margin-top: 10px;
+}
+
+.info {
+}
+
+.gitHubLink > img {
+  width: 20px;
+  height: 20px;
+}
