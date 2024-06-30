@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/syntax-highlighter/static/css/main.32fc885f.css",
+    "main.js": "/syntax-highlighter/static/js/main.9a109d57.js",
+    "static/media/githubIcon.svg": "/syntax-highlighter/static/media/githubIcon.cbbdd0c902376ddb076c5a0cd253936d.svg",
+    "index.html": "/syntax-highlighter/index.html",
+    "main.32fc885f.css.map": "/syntax-highlighter/static/css/main.32fc885f.css.map",
+    "main.9a109d57.js.map": "/syntax-highlighter/static/js/main.9a109d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32fc885f.css",
+    "static/js/main.9a109d57.js"
+  ]
+}
